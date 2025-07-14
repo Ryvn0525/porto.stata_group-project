@@ -26,4 +26,4 @@ This project conducted by a group of six members from Departement of Sociology, 
 2. Psychological addiction has a significant influence on students' lack of self-confidence and emotional state. This is evidenced by statistical significance at the 1% level (p < 0.01) for lack of confidence and at the 5% level (p < 0.05) for emotional response.
 3. Female students exhibit higher levels of lack of confidence, emotional distress, and hopelessness compared to male students. These findings are statistically significant at the 1% level (p < 0.01) across all three analytical models.
 
-**Final Research Paper**: [Group 9_Final Research Paper.pdf](https://github.com/user-attachments/files/21209218/Group.9_Final.Research.Paper.pdf)
+**Download Final Research Paper Here**: [Group 9_Final Research Paper.pdf](https://github.com/user-attachments/files/21209218/Group.9_Final.Research.Paper.pdf)
