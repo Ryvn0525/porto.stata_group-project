@@ -19,7 +19,7 @@ This project conducted by a group of six members from Departement of Sociology, 
 2. [Analysis dataset](https://github.com/Ryvn0525/porto.stata_group-project/raw/refs/heads/main/Group%20Research_Clear%20Dataset.dta)
 3. [Rotated factor analysis table](https://github.com/Ryvn0525/porto.stata_group-project/raw/main/Rotated%20Factor%20Analysis%20Table.pdf)
 4. [Descriptive statistics table](https://github.com/Ryvn0525/porto.stata_group-project/raw/main/Descriptive%20Statistics%20Table.pdf)
-5. Regression analysis table:
+5. [Regression analysis table](https://github.com/Ryvn0525/porto.stata_group-project/raw/main/Regression%20Analysis%20Table.pdf)
 
 **Research Findings**
 1. Distraction or disturbances while using social media have a significant impact on students' emotional responses, such as anger or loss of patience. This is supported by a 1% level of statistical significance (p < 0.01).
