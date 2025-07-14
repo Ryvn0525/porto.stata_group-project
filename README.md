@@ -17,7 +17,7 @@ This project conducted by a group of six members from Departement of Sociology, 
 **Outcome**
 1. [Analysis do file](https://github.com/Ryvn0525/porto.stata_group-project/raw/refs/heads/main/Group%20Research_Stata%20Analysis%20Do%20File.do)
 2. [Analysis dataset](https://github.com/Ryvn0525/porto.stata_group-project/raw/refs/heads/main/Group%20Research_Clear%20Dataset.dta)
-3. Rotated factor analysis table:
+3. [Rotated factor analysis table](https://github.com/Ryvn0525/porto.stata_group-project/raw/main/Rotated%20Factor%20Analysis%20Table.pdf)
 4. [Descriptive statistics table](https://github.com/Ryvn0525/porto.stata_group-project/raw/main/Descriptive%20Statistics%20Table.pdf)
 5. Regression analysis table:
 
